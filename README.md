@@ -14,4 +14,4 @@ To start a client, navigate to the client directory and run `nc localhost [port]
 MaxConnections = 10 
 
 ## Author
-This project was created by **Dana Kalykova**
+This project was created by **Dana**
